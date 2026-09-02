@@ -1,0 +1,16 @@
+  Static hostname: Exec
+        Icon name: computer-desktop
+          Chassis: desktop 🖥️
+Chassis Asset Tag: NBN0081806
+       Machine ID: e4155b4487064f45921bdac596027830
+          Boot ID: cd5561625f9f4a53b99ac34d0fd88280
+ Operating System: Omarchy
+           Kernel: Linux 7.1.9-arch1-2
+     Architecture: x86-64
+  Hardware Vendor: Dell Inc.
+   Hardware Model: Precision Tower 3420
+     Hardware SKU: 06C7
+ Hardware Version: A01
+ Firmware Version: 2.22.0
+    Firmware Date: Wed 2022-07-13
+     Firmware Age: 4y 1month 2w 6d

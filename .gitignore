@@ -1,0 +1,16 @@
+# Never commit credentials, private keys, or machine runtime state.
+**/.env
+**/.env.*
+**/hosts.yml
+**/credentials*
+**/*token*
+**/*cookie*
+**/*secret*
+**/*password*
+**/.ssh/
+**/.gnupg/
+**/.pki/
+**/.git/
+*.swp
+*.bak
+

@@ -1,0 +1,7 @@
+brave-origin-bin
+mullvad-browser-latest-bin
+mullvad-browser-latest-bin-debug
+oh-my-posh
+oh-my-posh-debug
+onlyoffice
+onlyoffice-debug

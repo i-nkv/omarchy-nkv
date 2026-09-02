@@ -1,0 +1,1 @@
+nkv:1000:1000:/home/nkv:/usr/bin/fish

@@ -1,0 +1,25 @@
+@define-color accent_bg_color #B2AE80;
+@define-color accent_fg_color #282828;
+@define-color accent_color #B2AE80;
+@define-color theme_selected_bg_color #B2AE80;
+@define-color theme_selected_fg_color #282828;
+@define-color borders alpha(#B2AE80, 0.5);
+
+selection,
+*:selected,
+view:selected,
+treeview.view:selected,
+row:selected {
+    background-color: alpha(#B2AE80, 0.22);
+    color: #282828;
+}
+
+button:hover,
+button:checked,
+button:focus,
+entry:focus,
+spinbutton:focus,
+combobox:focus {
+    border-color: #B2AE80;
+    color: #B2AE80;
+}

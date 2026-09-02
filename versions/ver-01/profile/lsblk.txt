@@ -1,0 +1,15 @@
+NAME          SIZE FSTYPE      TYPE  MOUNTPOINTS
+sda         931.5G             disk  
+├─sda1          2G vfat        part  /boot
+└─sda2      929.5G crypto_LUKS part  
+  └─root    929.5G btrfs       crypt /var/log
+                                     /home
+                                     /var/cache/pacman/pkg
+                                     /
+sr0          1024M             rom   
+zram0        15.5G swap        disk  [SWAP]
+nvme0n1     476.9G             disk  
+├─nvme0n1p1   100M vfat        part  
+├─nvme0n1p2    16M             part  
+├─nvme0n1p3 476.2G ntfs        part  
+└─nvme0n1p4   593M ntfs        part  
